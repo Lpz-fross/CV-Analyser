@@ -1,0 +1,97 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 21:16
+============================================================
+
+CV FILE: my_cv.txt
+JOB DESCRIPTION FILE: job_strong_match.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# Candidate Analysis: Leon Fordyce-Ross → Manager de Caveau, Achillée (Scherwiller, 67)
+
+---
+
+## MATCH SCORE
+
+**Match Score: 2/10**
+
+Leon demonstrates genuine hospitality and operational instincts through his bar management experience, which provides a thin thread of relevance, but the role requires a highly specialised wine professional with 5+ years in Vins & Spiritueux, multilingual fluency, and proven team leadership in an oenological context — none of which this candidate can evidence. The gap between a student bar manager role in Brighton (2025, duration unspecified) and a CDI caveau management position at a biodynamic Alsatian domaine is, frankly, very wide.
+
+---
+
+## STRONG MATCHES
+
+1. **Bar management & operational oversight:** His role as "Gérant de bar" at Railway Bell involved piloting all operations and supervising a team — this directly echoes the job's requirement for day-to-day operational management of the caveau, including opening/closing procedures.
+
+2. **Customer service orientation:** The CV explicitly highlights "accueil et service client irréprochables," which aligns with the role's emphasis on welcoming French and international clientele and creating an exceptional client experience.
+
+3. **Event logistics experience:** His 18-month role at Brighton Centre preparing large public events covers the job's requirement for logistical organisation of animations and events, albeit at an operational/setup level rather than a programming/conception level.
+
+4. **English as native language:** The job lists English fluency as indispensable ("Anglais courant indispensable") for guiding international visitors — Leon's native English is a genuine, concrete asset.
+
+5. **Team supervision:** Referenced explicitly in both his skills section and his Railway Bell role, covering the job's requirement for recruiting, training, and animating a team.
+
+---
+
+## GAPS & MISSING REQUIREMENTS
+
+| Gap | Importance in JD | Dealbreaker? |
+|---|---|---|
+| **Minimum 5 years in Vins & Spiritueux** | Explicitly stated as mandatory; the entire role is built around wine culture | ✅ **Dealbreaker** — zero wine sector experience evidenced |
+| **Oenological knowledge** | Core to advising clients, conducting tastings, food-wine pairings, and representing a biodynamic domaine | ✅ **Dealbreaker** — no wine education or experience referenced anywhere |
+| **Bac+3/5 in oenotourism, events, hospitality or commerce** | Stated as required education level | ✅ **Dealbreaker** — candidate is currently a product design student with A-Levels only |
+| **2+ years formal team management** | Required for the management pillar of the role | ⚠️ **Likely dealbreaker** — Railway Bell is the only management experience and its duration is unclear (appears to be less than a year in 2025) |
+| **German language (or third language)** | Listed as a strong plus; guides are expected in French, English, and German | ⚠️ **Significant gap** — only English (native) and French (conversational) evidenced |
+| **French fluency** | All operations are in France; "conversational / en progression" is well below operational requirement | ✅ **Dealbreaker** — managing a French team and communicating with French clients requires full fluency |
+| **CRM management, newsletter campaigns, social media content creation** | Explicitly listed responsibilities | ⚠️ **Meaningful gap** — no digital marketing or CRM experience referenced |
+| **Budget management and financial reporting** | Caisse, daily closings, financial reporting, HACCP compliance all cited | ⚠️ **Meaningful gap** — no evidence of P&L or budget responsibility |
+| **Knowledge of Route des Vins / oenotourism ecosystem** | Required for developing tourism partnerships and visibility | ⚠️ **Significant gap** — no evidence of French wine tourism context |
+| **Permis B (driving licence)** | Listed as required | ❓ **Unknown** — not mentioned on CV |
+
+---
+
+## CV IMPROVEMENT SUGGESTIONS
+
+**1. Bar Management Duration**
+- **CURRENT:** "Railway bell, Brighton | Gérant de bar — 2025" (no start date, no duration)
+- **SUGGESTED:** Add precise dates, e.g., "Janvier 2025 – Décembre 2025" and include team size managed and any revenue or sales targets met
+- **REASON:** The hiring manager needs to assess whether this is 3 months or 12 months — currently it reads as very short, which undermines the management credibility that is the strongest transferable asset
+
+**2. Wine or Hospitality Knowledge**
+- **CURRENT:** No mention of any wine knowledge, WSET, oenology course, or wine-related interest anywhere
+- **SUGGESTED:** If any wine knowledge exists (even self-study, a WSET Level 1, or personal interest in viticulture), add a dedicated line under Education or Skills; if none exists, enrol in a WSET Level 1 before applying and list it as "en cours"
+- **REASON:** The absence of any wine reference on a CV for a caveau management role is the single most damaging gap — even a basic qualification signals genuine commitment
+
+**3. French Language Level**
+- **CURRENT:** "Français — Conversationnel / en progression"
+- **SUGGESTED:** Be more specific: "Français — niveau B1/B2, en amélioration active" and mention any formal study, immersion, or residency in France (the CV address is Céret, France — this should be leveraged)
+- **REASON:** Listing residency in France strengthens the French language claim and shows commitment to integration; "conversational / en progression" alone raises doubts about operational capability
+
+**4. Reframe the Profile Summary**
+- **CURRENT:** "Étudiant en design de produit motivé et polyvalent... À la recherche d'un poste permettant de mettre à profit cette double compétence entre gestion opérationnelle et esprit créatif"
+- **SUGGESTED:** Rewrite entirely to focus on hospitality leadership and wine passion: remove all reference to product design; open with your hospitality trajectory, your commitment to wine culture, and your goal of building a career in oenotourism
+- **REASON:** The current summary immediately signals to the recruiter that this is a product design student exploring a side interest — for a CDI senior role at a biodynamic domaine, that framing is disqualifying
+
+**5. Remove or Recontextualise Irrelevant Skills**
+- **CURRENT:** Skills listed include "Rhino CAD & prototypage" and "DJ et éclairage"
+- **SUGGESTED:** Remove Rhino CAD entirely; reframe DJ/lighting as "animation d'événements et gestion technique de soirées thématiques" to connect it to the event programming responsibilities in the JD
+- **REASON:** Rhino CAD signals product design student, not caveau manager — it actively undermines the application; the events/DJ skill is genuinely relevant but needs professional framing
+
+---
+
+## COVER LETTER ANGLE
+
+Leon's strongest — and arguably only — viable narrative is that of a **native English speaker with genuine operational hospitality experience who is building a deliberate career pivot toward the French wine and oenotourism sector**, grounded in his current life in France.
+
+> "Having managed bar operations and delivered high-volume customer service in the UK, I relocated to France with a clear ambition: to build a career where hospitality excellence meets the world of wine. My native English fluency is an immediate operational asset for welcoming Achillée's international visitors, and my hands-on experience managing teams and coordinating events gives me a practical foundation I am committed to developing within the specific context of biodynamic wine and Alsatian oenotourism. I am actively deepening my French and my oenological knowledge, and I am drawn to Achillée precisely because its human scale, ecological values, and passion-driven team represent the environment in which I know I will develop fastest."
+
+---
+
+## HONEST VERDICT
+
+**This candidate should not apply to this role in its current form.** The job description is unambiguous: it requires a confirmed wine sector professional with 5+ years of relevant experience, oenological expertise, and fluent multilingual communication — Leon has none of these. His realistic chance of being shortlisted is very low (below 5%), and submitting now risks creating a negative first impression with a domaine he may wish to approach more credibly in the future. The single most impactful step would be to spend
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

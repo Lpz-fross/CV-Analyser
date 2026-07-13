@@ -1,0 +1,97 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 02:35
+============================================================
+
+CV FILE: my_cv.txt
+JOB DESCRIPTION FILE: job_description_2.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# MATCH SCORE
+
+**Match Score: 1/10**
+
+This candidate is a hospitality and events worker with A-Level qualifications seeking a product design role, while the position demands a Bac+5 engineer with deep expertise in Google Cloud Platform, Vertex AI, Kubernetes, and agentic AI systems. There is virtually no alignment between the candidate's documented skills and the highly technical AI engineering requirements of this VIE role at Carrefour Spain.
+
+---
+
+# STRONG MATCHES
+
+1. **Customer-facing experience:** The candidate has extensive direct customer service experience across bar management and hospitality, which has marginal relevance to understanding end-user needs for agents like ClubIA (the shopping companion) and SintIA (voice of customer) — though this is a very weak connection, not a technical match.
+
+2. **Team collaboration under pressure:** The candidate references working within large teams in fast-paced environments (Brighton Centre events crew, Railway Bell), which loosely reflects the job description's mention of collaborating with cross-functional stakeholders including Business Owners, AI Champions, and Google Cloud consultants.
+
+3. **Bilingual English/French with French base:** The candidate is a native English speaker with French as a working language and is based in France, which partially addresses the language environment, though the role specifically requires C1 Spanish and C1 English — not French.
+
+---
+
+# GAPS & MISSING REQUIREMENTS
+
+| Missing Requirement | Importance in JD | Dealbreaker? |
+|---|---|---|
+| **Bac+5 / Master's degree (M2) from engineering, business, or university** | Explicitly required as minimum educational qualification | ✅ **Hard dealbreaker** — candidate holds only A-Levels (equivalent to Baccalauréat), which is 3 years below the minimum requirement |
+| **Google Cloud Platform (GCP) expertise** | Listed as first and primary technical requirement | ✅ **Hard dealbreaker** — zero evidence of any cloud platform knowledge anywhere in the CV |
+| **Vertex AI and Agent Development Kit (ADK) experience** | Core to the mission of building the 5 strategic agents | ✅ **Hard dealbreaker** — no AI/ML tooling of any kind is mentioned |
+| **Model Context Protocol (MCP) or LLM integration standards** | Required for connecting agents to data sources and external tools | ✅ **Hard dealbreaker** — not referenced, and no programming or software engineering background exists |
+| **Docker and Google Kubernetes Engine (GKE)** | Required for deploying and scaling AI agents at national level | ✅ **Hard dealbreaker** — no evidence of any DevOps, containerisation, or infrastructure knowledge |
+| **Generative AI / Agentic AI development experience** | The entire role is the development and industrialisation of AI agents | ✅ **Hard dealbreaker** — no AI background whatsoever |
+| **C1 Spanish language proficiency** | Explicitly stated as required | ✅ **Hard dealbreaker** — Spanish is not listed anywhere on the CV; candidate speaks English (native) and basic French |
+| **Agile methodology and ability to translate business needs into technical solutions** | Listed under required qualities | ⚠️ Significant gap — no project management, agile, or technical translation experience evidenced |
+
+---
+
+# CV IMPROVEMENT SUGGESTIONS
+
+**1. Education Section**
+- **CURRENT:** Lists A-Levels (Biology, Chemistry, Maths) from Bhasvic, Brighton, completed 2024. No higher education is mentioned.
+- **SUGGESTED:** If the candidate is currently enrolled in any higher education programme (university, engineering school, design school), this must be added immediately with expected graduation date and degree title.
+- **REASON:** The role has a hard floor of Bac+5. Without any university-level education on the CV, the application will be automatically rejected before a human ever reads it.
+
+**2. Technical Skills Section**
+- **CURRENT:** Skills listed include "Gestion de bar," "DJ et éclairage," "Service client," and "Rhino CAD & prototypage" — none of which are relevant to AI engineering.
+- **SUGGESTED:** Remove hospitality-specific skills entirely and replace with any genuine technical skills (even foundational ones): programming languages studied, any online certifications in Python, cloud computing, data science, or AI (e.g., Google Cloud Digital Leader, Coursera ML courses).
+- **REASON:** For an AI engineering VIE, a technical skills section showing zero programming or data competency sends an immediate rejection signal to any technical recruiter.
+
+**3. Languages Section**
+- **CURRENT:** Lists English (native) and French (conversational/in progress). Spanish is entirely absent.
+- **SUGGESTED:** If the candidate has any Spanish knowledge at all — even beginner level — it should be added with an honest proficiency rating. If there is none, this must be addressed upfront as a critical gap to be filled before July 2026.
+- **REASON:** C1 Spanish is explicitly required. Its complete absence from the CV makes the candidate ineligible on language grounds alone, independent of all other gaps.
+
+**4. Professional Summary**
+- **CURRENT:** Describes the candidate as "étudiant en design de produit" seeking to combine "gestion opérationnelle et esprit créatif" — this is entirely misaligned with an AI engineering role.
+- **SUGGESTED:** The summary would need to be completely rewritten to foreground technical interests, AI curiosity, and any relevant academic or project work in data/tech. If no such background exists, a new summary cannot honestly be written.
+- **REASON:** A recruiter reading "étudiant en design de produit" on an AI engineering application will stop reading immediately; the summary must signal relevance within the first two lines.
+
+**5. Project or Academic Work Section**
+- **CURRENT:** No projects section exists; the only technical reference is "Rhino CAD & prototypage" buried in skills.
+- **SUGGESTED:** Add a "Projets Académiques" or "Projets Personnels" section. Include any coursework, personal projects, or self-study related to technology, data, or programming — even a personal website built in HTML, a Python script, or a university module in computer science.
+- **REASON:** For early-career tech roles, academic and personal projects substitute for professional experience; without any section like this, the CV has no technical credibility whatsoever.
+
+---
+
+# COVER LETTER ANGLE
+
+The strongest (and only) viable narrative angle available to this candidate is one of radical honesty about a non-traditional background combined with evidence of rapid self-directed learning and exceptional operational instincts. Something like:
+
+*"My background is not a conventional AI engineering path — but managing a bar at high volume, coordinating large-scale events, and studying product design have given me something many pure-tech candidates lack: a ground-level understanding of how retail operations actually work under pressure, which directly informs how AI agents like SherpIA or ClubIA need to behave in the real world."*
+
+*"I am currently [completing/beginning] a programme in [relevant field] and have been independently building skills in [specific tools e.g. Python, GCP fundamentals] because I am committed to bridging the gap between my operational background and the technical demands of this role before the July 2026 start date."*
+
+*"What I bring to Carrefour Spain is not yet seniority in AI — it is the hunger, adaptability, and customer-first mindset of someone who has worked every side of a service environment and now wants to apply that instinct to building AI systems that genuinely serve real people."*
+
+⚠️ **Important caveat:** This angle can only work if the candidate is genuinely enrolled in or planning a relevant degree and is actively acquiring technical skills. Without that foundation, even the strongest cover letter cannot overcome the structural gaps.
+
+---
+
+# HONEST VERDICT
+
+**This candidate should not apply for this role in its current state.** The position requires a completed Master's degree in engineering or computer science, deep hands-on expertise in Google Cloud/Vertex AI/Kubernetes, C1 Spanish, and professional experience building generative AI systems — the candidate meets none of these requirements, and no amount of CV polish or cover letter framing can substitute for qualifications that simply do not exist yet.
+
+**The realistic chance of success with this application today is effectively zero** — not because the candidate lacks potential, but because the gap between their current profile and the role's minimum requirements spans approximately 5–7 years of education and specialised technical experience.
+
+**The single most impactful thing this candidate can do** is commit to completing a Bac+5 in a relevant technical field (computer science, data science, AI engineering) and begin building a concrete portfolio of AI/cloud projects —
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

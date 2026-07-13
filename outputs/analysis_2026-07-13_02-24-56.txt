@@ -1,0 +1,97 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 02:24
+============================================================
+
+JOB DESCRIPTION FILE: job_description.txt
+CV FILE: my_cv.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# Candidate-Role Match Analysis
+
+---
+
+## MATCH SCORE
+
+**Match Score: 1/10**
+
+This score reflects an almost complete absence of overlap between the candidate's profile and the technical requirements of the role, which demands 3–5 years of hands-on experience with AI systems, LLMs, Python, and production-grade software engineering. The candidate is a student in product design with a background exclusively in hospitality, event logistics, and bar management — none of which maps to any technical requirement listed in the job description.
+
+---
+
+## STRONG MATCHES
+
+There are no genuine strong matches between this CV and this job description. Forcing matches would be dishonest and unhelpful to the candidate. The closest observable points of contact are noted below, but these are marginal at best:
+
+1. **French language proficiency**: The job description requires good French and English; the candidate is bilingual (native English, conversational French), which satisfies this one non-technical requirement.
+2. **Operational reliability under pressure**: The candidate's experience managing bar operations and large-scale event logistics demonstrates dependability and process-orientation, which are soft skills valued in any operational role — though entirely insufficient here without the technical foundation.
+3. **Rhino CAD & prototyping (listed in skills)**: This faintly suggests some exposure to structured, methodical technical work, which is categorically different from what is required but indicates the candidate is not purely non-technical in orientation.
+
+---
+
+## GAPS & MISSING REQUIREMENTS
+
+| Missing Requirement | Importance in JD | Dealbreaker? |
+|---|---|---|
+| **3–5 years of Software Engineering, Data, or Applied AI experience** | Core, explicitly stated as baseline entry requirement | ✅ Absolute dealbreaker |
+| **Python proficiency** | Described as a key technical skill; appears in the tech stack section | ✅ Absolute dealbreaker |
+| **LLM / Generative AI experience** (OpenAI, Anthropic, Mistral, Gemini) | Central to the entire role; mentioned in both missions and stack | ✅ Absolute dealbreaker |
+| **Agentic frameworks** (LangChain, Dust, n8n, Make, Zapier) | Core to the job's daily work; explicitly listed in the stack | ✅ Absolute dealbreaker |
+| **API development, webhooks, integrations** | Required for integration & automation missions | ✅ Absolute dealbreaker |
+| **SQL and data modelling** | Listed as a required foundational skill | ✅ Absolute dealbreaker |
+| **Cloud platforms** (AWS or GCP) | Listed in the technical environment | ✅ Absolute dealbreaker |
+| **Production deployment of AI solutions** | Explicitly cited as a required experience | ✅ Absolute dealbreaker |
+| **Any software engineering education or training** | Implied throughout; background is science A-Levels, not CS | ✅ Absolute dealbreaker |
+| **Product curiosity in AI/automation** | Listed as a cultural fit requirement | ⚠️ Gap — could theoretically be addressed in cover letter, but irrelevant without technical base |
+
+---
+
+## CV IMPROVEMENT SUGGESTIONS
+
+These suggestions are written honestly in the context of this specific role. They cannot make this candidate competitive for this job, but they reflect what would need to change for any future application to a technical AI role.
+
+**1.**
+**CURRENT:** CV lists "Rhino CAD & prototypage" under skills with no further detail or context.
+**SUGGESTED:** Expand this into a brief description: specify what was designed, what software version was used, and whether any digital/computational logic was involved in the prototyping process.
+**REASON:** It is the only technically adjacent skill on the CV; giving it substance is the only way to signal any technical capability at all to a hiring manager scanning for engineering competency.
+
+**2.**
+**CURRENT:** Education section lists A-Levels in Biology, Chemistry, and Maths — no computer science, programming, or data-related coursework mentioned.
+**SUGGESTED:** If the candidate has completed *any* online courses in Python, AI, data analysis, or software development (e.g., Coursera, freeCodeCamp, DataCamp), these must be added immediately as a dedicated "Continuing Education" or "Technical Training" section.
+**REASON:** This role requires demonstrated technical learning; even entry-level certifications would signal intentionality toward the field and begin to close the credibility gap.
+
+**3.**
+**CURRENT:** The summary describes the candidate as "étudiant en design de produit" seeking to leverage "gestion opérationnelle et esprit créatif" — positioning that is entirely misaligned with this role.
+**SUGGESTED:** If applying to any AI/tech role, the summary must be rewritten to foreground technical interests, any exposure to automation tools, and a stated ambition to move into AI engineering — not hospitality management.
+**REASON:** A recruiter reading this summary will dismiss the CV in under five seconds; the positioning must signal that the candidate belongs in tech, even if their experience is still developing.
+
+**4.**
+**CURRENT:** No mention anywhere of personal projects, GitHub activity, side experiments, or any engagement with technology tools — even consumer-level AI tools.
+**SUGGESTED:** Add a "Projects" section documenting any self-initiated technical work: building a simple automation with Zapier or Make, experimenting with ChatGPT API, creating a script in Python, or even a product design project with a digital/data component.
+**REASON:** For a candidate without professional tech experience, self-directed projects are the primary credibility signal; their complete absence removes any basis for a technical hiring manager to take the application forward.
+
+**5.**
+**CURRENT:** Work experience is presented in chronological format with bullet points focused on team collaboration and operational duties, with no connection to any digital tools, software, or data processes used in those roles.
+**SUGGESTED:** Review each role and surface any digital/tool-based work: POS systems managed, inventory software used, scheduling tools, any data entry or reporting. Even minor tool usage should be named explicitly.
+**REASON:** While insufficient for this role, naming specific software demonstrates basic digital literacy and prevents the CV from reading as entirely non-technical — which is its current impression.
+
+---
+
+## COVER LETTER ANGLE
+
+There is no credible narrative angle that positions this candidate as genuinely suitable for this role at this time. The most honest cover letter this candidate could write would need to acknowledge the gap directly. If the candidate were to apply regardless, the only defensible angle would be:
+
+> "Although my professional background to date has been in operational environments, I am currently completing my product design studies with a growing focus on automation and digital systems, and I am actively building hands-on experience with AI tools including [specific tools]. I am drawn to this role because [specific aspect of the company's AI mission], and I am committed to accelerating my technical development to contribute meaningfully to this kind of work. I would welcome the opportunity to demonstrate the speed at which I learn and the operational rigour I bring from high-pressure environments."
+
+**This angle is only viable if the candidate can genuinely fill in the bracketed sections with real, verifiable technical activity.**
+
+---
+
+## HONEST VERDICT
+
+**This candidate should not apply for this role.** The job description requires a minimum of 3–5 years of applied engineering or AI experience with a specific and advanced technical stack; this candidate has zero professional or educational background in any of those areas, and no evidence of even hobbyist-level engagement with the relevant technologies. The realistic chance of progressing beyond an automated CV screen is effectively zero, and applying would not serve the candidate's professional reputation or time. The single most impactful thing this candidate could do is invest 6–12 months in structured technical education — specifically Python, APIs, and LLM tooling via platforms like fast.ai, DeepLearning.AI, or similar — and build two or three demonstrable personal projects before approaching roles of this nature.
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

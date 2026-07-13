@@ -1,0 +1,102 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 21:23
+============================================================
+
+CV FILE: my_cv.txt
+JOB DESCRIPTION FILE: job_strong_match.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# MATCH SCORE
+
+**Match Score: 8/10**
+
+Leon's direct bar management experience at Railway Bell Brighton is an exceptionally strong match for a Bar & Waiting Staff role — he is arguably overqualified in operational terms. The score is held back slightly by the CV being written entirely in French, which creates an immediate practical barrier for a UK-based hiring manager, and by the absence of explicitly evidenced food service or waiting experience.
+
+---
+
+# STRONG MATCHES
+
+- **Bar Management Experience:** Leon managed all bar operations at Railway Bell Brighton, directly matching the requirement to prepare and present drinks to specification and maintain a safe, legal, and clean bar environment.
+
+- **Customer Service in a Fast-Paced Environment:** His CV explicitly states he delivered "irreproachable customer welcome and service in a fast-paced establishment," directly matching the job's requirement for warm welcomes and memorable customer experiences.
+
+- **Opening and Closing Procedures:** Leon was responsible for opening and closing procedures at Railway Bell, demonstrating the reliability and operational competence Greene King expects from bar staff.
+
+- **Team Player with Supervisory Experience:** Having supervised a bar team, Leon evidences not just teamwork but leadership within it — he will comfortably meet the "positive, can-do team player" requirement.
+
+- **Food Service Environment Exposure:** His kitchen assistant role at Bonsai Plant Kitchen shows familiarity with restaurant operations, which supports the job's requirement to assist with greeting and serving food to dining customers.
+
+- **Event and Crowd Experience:** His 18-month role setting up events at Brighton Centre demonstrates comfort working with large public-facing environments, reinforcing his ability to handle busy pub periods without stress.
+
+---
+
+# GAPS & MISSING REQUIREMENTS
+
+**1. Explicit waiting/front-of-house food service experience**
+- *What is missing:* The job asks candidates to assist with greeting, serving food, and looking after dining customers. Leon's kitchen role is back-of-house; no front-of-house waiting is evidenced.
+- *Importance:* Moderate — this pub clearly serves food and waiting duties are listed as a genuine requirement.
+- *Dealbreaker?* No — his customer-facing bar experience is transferable and this could be addressed directly in a cover letter.
+
+**2. Drink recommendations / product knowledge**
+- *What is missing:* The job specifically mentions being "the insider behind the bar" offering drink recommendations. Leon's CV doesn't reference knowledge of beer, spirits, cocktails, or menu familiarity.
+- *Importance:* Moderate — this is a differentiating quality Greene King specifically calls out.
+- *Dealbreaker?* No — given his bar management background, the knowledge almost certainly exists but is simply unevidenced on the CV.
+
+**3. Passion for hospitality / guest experience framing**
+- *What is missing:* The job description is emotionally led — "unforgettable moments," "heartfelt experience," "good times flowing." Leon's CV is operationally framed (procedures, standards, management) but doesn't reflect genuine enthusiasm for the guest experience.
+- *Importance:* Moderate — Greene King's community pub brand is built on warmth and personality.
+- *Dealbreaker?* No — but failing to address it in a cover letter would be a missed opportunity.
+
+**4. Specific mention of compliance / Challenge 25 / licensing awareness**
+- *What is missing:* "Safe and legal" bar operation is listed as a requirement. There is no mention of licensing law awareness, Challenge 25, or responsible service of alcohol.
+- *Importance:* Low-to-moderate for a bar staff role (higher for management).
+- *Dealbreaker?* No — easily addressed in a cover letter or at interview.
+
+---
+
+# CV IMPROVEMENT SUGGESTIONS
+
+**1. Translate the CV into English**
+- **CURRENT:** The entire CV body, including job descriptions and skills, is written in French.
+- **SUGGESTED:** Produce a fully English-language version for this application. French can be noted briefly under Languages as a secondary skill.
+- **REASON:** A UK pub hiring manager is unlikely to read French fluently; the CV will almost certainly be discarded before the strong experience is even noticed.
+
+**2. Reframe the Railway Bell role to emphasise bar craft, not just management**
+- **CURRENT:** "Piloté l'ensemble des opérations d'un bar et encadré une équipe" (managed all bar operations and supervised a team).
+- **SUGGESTED:** Add a bullet such as: "Prepared and served a full range of draught, bottled, and spirit drinks to brand standards, advising customers on selections and upselling specials."
+- **REASON:** The job description prioritises drink preparation and customer recommendations — the CV currently buries this under operational language and doesn't evidence the craft element at all.
+
+**3. Add a front-of-house food service bullet, even if informal**
+- **CURRENT:** Food experience is framed entirely as kitchen assistant (back-of-house).
+- **SUGGESTED:** If any table service, food running, or customer interaction occurred at Bonsai or at Railway Bell (e.g., serving bar snacks), add a specific bullet referencing it.
+- **REASON:** Greene King lists food service as a defined part of this role; leaving it completely unevidenced creates an unnecessary doubt about candidate fit.
+
+**4. Rework the personal statement to match Greene King's brand language**
+- **CURRENT:** "Étudiant en design de produit motivé et polyvalent" — leads with product design student identity.
+- **SUGGESTED:** Open with hospitality identity first: "Experienced bar operator and customer service professional with a proven track record in busy pub and restaurant environments, known for reliability, warmth with customers, and consistently high service standards."
+- **REASON:** Leading with "product design student" signals this is a temporary or secondary role to the candidate — Greene King wants someone who is genuinely invested in hospitality, even if the role is part-time.
+
+**5. Remove or contextualise Rhino CAD & prototyping from the Skills section**
+- **CURRENT:** "Rhino CAD & prototypage" appears in the skills list alongside bar management and customer service.
+- **SUGGESTED:** Remove it from this version of the CV, or move it to a single-line note: "Additional skills: product design software (Rhino CAD) — available on request."
+- **REASON:** It adds no relevance to a bar staff role and reinforces the impression that hospitality is a side interest rather than Leon's focus, which could reduce hiring manager confidence.
+
+---
+
+# COVER LETTER ANGLE
+
+**The strongest angle: "I've already done the job at a higher level — now I want to do it as part of your team."**
+
+Having managed a bar independently — handling operations, leading staff, and maintaining service quality during peak hours — I bring a level of experience that goes beyond what most bar staff candidates offer, and I'm ready to put that fully at the service of a Greene King team and its customers. What I'm looking for is exactly what Greene King's community pub model offers: a genuine, people-first environment where great service and team culture actually matter. I'd bring reliability, composure under pressure, and a real commitment to making every customer feel welcome from the moment they walk in — because that's the standard I've always held myself to.
+
+---
+
+# HONEST VERDICT
+
+**Leon should absolutely apply — this is a strong match and he would likely sail through the practical requirements of the role.** His bar management experience at a Brighton pub puts him ahead of the vast majority of candidates who will apply for a bar staff position, and his additional hospitality exposure shows this isn't a one-off. His realistic chance of being shortlisted is high, *provided* he submits the CV in English — in its current French-language form, it will almost certainly not be read by a pub-level hiring manager, and that single issue is the one thing standing between him and an interview.
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

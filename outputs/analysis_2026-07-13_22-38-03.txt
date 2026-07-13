@@ -1,0 +1,91 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 22:38
+============================================================
+
+CV FILE: my_cv.txt
+JOB DESCRIPTION FILE: job_weak_match.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# Candidate Match Analysis: Tunnel Engineering Support Role
+
+---
+
+## MATCH SCORE
+**Match Score: 1/10**
+
+The candidate is a product design student whose entire experience is in bar management, kitchen assistance, and event setup, with no engineering education, technical qualifications, or tunnelling-adjacent background whatsoever. The single point is awarded only because the candidate demonstrates reliability and shift-based working patterns, which are peripheral soft skills mentioned implicitly in the role.
+
+---
+
+## STRONG MATCHES
+
+After a thorough review of the CV against the job description, it is not possible in good conscience to produce a minimum of three genuine matches, as doing so would be misleading to the candidate. Only one credible match exists:
+
+1. **Reliable shift-based working:** The candidate explicitly references responsibility for opening and closing procedures and reliable shift coverage at Railway Bell, which loosely mirrors the job description's requirement for stand-in cover and consistent on-site presence — though this is an extremely weak parallel.
+
+There are no further honest matches to document. The role requires an engineering degree, tunnelling or construction knowledge, understanding of Permit to Excavate (PTE) processes, Shift Review Group (SRG) input, ground movement data analysis, QA documentation, instrumentation monitoring, and third-party engineering liaison. The candidate evidences none of these.
+
+---
+
+## GAPS & MISSING REQUIREMENTS
+
+| Requirement | What Is Missing | Importance | Dealbreaker? |
+|---|---|---|---|
+| **Engineering degree** | The candidate holds A-Levels in Biology, Chemistry, and Maths (2022–2024) and has not completed or enrolled in any engineering degree programme | **Critical** — the job description lists this as the primary qualification | **Yes, absolute dealbreaker** |
+| **Working towards Chartership** | No engineering institution membership, no evidence of professional development in any engineering discipline | **Critical** — indicates a mid-career engineering professional is expected | **Yes** |
+| **Tunnelling experience** | Zero construction, civil engineering, or underground works experience of any kind | **High** — described as "preferable" but the entire role is tunnelling-specific | **Yes, in practice** |
+| **PTE / SRG process knowledge** | No evidence of understanding Permit to Excavate or Shift Review Group processes | **Critical** — these are core daily tasks described at length | **Yes** |
+| **Ground movement / instrumentation data analysis** | No data analysis experience of any kind documented | **Critical** — multiple responsibilities require this technical skill | **Yes** |
+| **QA documentation management** | No quality assurance or engineering document control experience | **High** — managing progressive assurance packages is a core responsibility | **Yes** |
+| **Third-party / utilities engineering liaison** | No technical stakeholder management in an engineering context | **High** — the role requires coordinating approvals with external engineering bodies | **Yes** |
+| **Rhino CAD (engineering application)** | Candidate lists Rhino CAD as a skill but in a product design context — no civil or structural CAD application is evidenced | **Moderate** — CAD literacy is a marginal positive but the software is not relevant to tunnelling | **Not a dealbreaker but not helpful** |
+| **Technical report / submission review** | No experience reviewing engineering submissions or technical documents | **High** — explicitly listed as a core responsibility | **Yes** |
+
+---
+
+## CV IMPROVEMENT SUGGESTIONS
+
+These suggestions are offered for the candidate's general professional development, as this specific role is not a viable application target at this stage.
+
+**1.**
+**CURRENT:** The CV is written entirely in French, including the professional summary and all job descriptions.
+**SUGGESTED:** Produce a full English-language version of the CV for any UK-based role application, with French available separately if relevant.
+**REASON:** UK engineering employers will expect fluent written English; a French-language CV signals a mismatch in professional context before the content is even assessed.
+
+**2.**
+**CURRENT:** The professional summary describes the candidate as "a motivated and versatile product design student" focused on hospitality and events.
+**SUGGESTED:** If applying to engineering-adjacent roles, rewrite the summary to foreground the STEM A-Level background (Biology, Chemistry, Maths) and any engineering or technical coursework being pursued, removing hospitality framing entirely.
+**REASON:** The summary is the first thing a recruiter reads; framing built around bar management and events immediately signals unsuitability for technical roles.
+
+**3.**
+**CURRENT:** Rhino CAD and prototyping are listed under skills with no context, dates, or project examples.
+**SUGGESTED:** Add a brief education or projects section explaining what product design work the Rhino CAD skill was applied to — including any STEM-relevant outcomes, dimensions, or technical problem-solving involved.
+**REASON:** Without context, Rhino CAD reads as a course tool rather than a demonstrated competency, and it currently does nothing to support engineering applications.
+
+**4.**
+**CURRENT:** The education section lists A-Levels (Biology, Chemistry, Maths) with no grades and no indication of current higher education enrolment.
+**SUGGESTED:** Clearly state whether the candidate is currently enrolled in a degree programme, which institution, which course, and expected graduation date — or if a gap year is being taken, state this explicitly.
+**REASON:** For any graduate-track engineering role, the absence of an active or completed degree is the single most disqualifying gap; making the educational trajectory clear is essential.
+
+**5.**
+**CURRENT:** The Brighton Centre event setup role describes physical, logistical teamwork in a time-pressured environment but references no transferable technical detail.
+**SUGGESTED:** For construction or infrastructure-adjacent roles specifically, reframe this experience to reference any interaction with structural setups, load-bearing equipment, or safety compliance procedures if these genuinely occurred.
+**REASON:** Large-scale venue construction and event infrastructure occasionally involves working near civil engineering contractors; if any such exposure exists, it is the closest thing on this CV to a construction-environment reference.
+
+---
+
+## COVER LETTER ANGLE
+
+This candidate does not have a viable cover letter angle for this specific role. No honest narrative exists that bridges a product design student with bar and kitchen experience to a tunnelling engineering support position requiring an engineering degree and technical process knowledge. Applying with a cover letter would not address the fundamental qualification gap and risks damaging the candidate's professional credibility with this employer.
+
+---
+
+## HONEST VERDICT
+
+**This candidate should not apply for this role.** The position requires an engineering degree, working knowledge of tunnelling processes including PTE and SRG frameworks, instrumentation data analysis, and QA documentation — none of which are present anywhere in this CV. The realistic chance of progressing past an initial CV screen is effectively zero, and submitting an application would be a poor use of the candidate's time. The single most impactful thing this candidate can do to improve their long-term prospects in engineering is to complete their product design degree, pursue any available engineering work placements during their studies, and revisit graduate-level engineering support roles upon qualification.
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

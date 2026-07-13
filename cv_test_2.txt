@@ -1,0 +1,50 @@
+Duncan Fordyce
+Principal Software Engineer — Full-Stack, Data & Platform
+dunkfordyce@gmail.com   ·   +44 7507 68739   ·   UK (open to France)   ·   github.com/dunkfordyce
+PROFILE
+Self-taught engineer, coding since childhood and ~25 years of it professionally, across games and web. The last ~16 have been 
+building and running a music-promotion platform: its customer-facing app, an in-house CRM and mail system, a search 
+service, and the recommendation serving behind them. I ship in small, well-tested increments, and I treat correctness and 
+reliability as part of a feature rather than an afterthought.
+EXPERIENCE
+FATdrop  — Principal Software Engineer
+2009 – Present
+Music-promotion platform connecting labels and artists with DJs, radio and press; grew from a small web app to a broad 
+platform, on a small engineering team.
+• Rebuilt FATdrop’s entire application from legacy PHP to Python — REST APIs, the SQLAlchemy data model and the front 
+end — migrating all the existing data across in the process.
+• Built a full production CRM mostly with Claude Code, owning the architecture, review and tests while the agent did much 
+of the typing: a Python API and React/TypeScript front end, with a Playwright suite kept green through several redesigns.
+• The mail platform I built sends over a million emails a month to a pool of several million recipients: campaign mailouts 
+with per-recipient tracking and recipient feedback, plus a good deal of deliverability work (RFC-5322 headers, unsubscribe 
+handling, throttling to protect sender reputation).
+• Owned an artist/label search service over a Discogs dataset of hundreds of thousands of artists and labels, from the 
+ranking (percentile popularity scoring, tunable popularity-vs-recency weighting, explainable per-result breakdowns, 
+streamed sub-second) to the cross-database sync pipeline feeding it.
+• Put the data team’s recommendation system into production, doing the serving side: loading their vector embeddings 
+and similarity graphs (cosine similarity, pinned to one embedding space), adding safe fallbacks, fixing version-consistency 
+bugs, and profiling the nightly scoring batch to clear the slow spots.
+• Set up and run the Docker deployment infrastructure: dev-containers, single-image CI-built tooling, and an automated 
+release pipeline (CI/CD with semantic-release). It’s also how we keep the legacy Python 2 app alive, containerised rather 
+than rushing a risky upgrade.
+Black Rock Studio (Disney Interactive Studios)  — Software Engineer
+c. 2006 – 2007
+Software engineer at the Brighton racing-game studio (formerly Climax) through its acquisition and integration into Disney 
+Interactive Studios.
+Transaxion  — Python Developer
+Built Python software for a parcel / shipment-tracking product.
+SKILLS
+c. 2007 – 2008
+Languages  Python (expert), TypeScript / JavaScript, SQL, Bash; C / C++ (read fluently, a bit rusty writing it)
+AI-assisted dev  Claude Code and agentic coding workflows, with me owning the architecture, review and tests
+Backend  REST API design, WSGI, SQLAlchemy models & migrations, PostgreSQL, MySQL / MariaDB, server-sent events
+Frontend  React, TypeScript, webpack, design systems, HTML / MJML email
+Data & ML serving  large-dataset ranking & search, ETL & cross-database sync, serving embeddings & similarity graphs in 
+production
+Delivery & platform  Linux (very comfortable), Docker, CI/CD, semantic-release, containerised deployment, mail / SMTP & 
+deliverability, observability tooling
+Practice  TDD (unit + E2E), performance profiling, conventional commits, incremental delivery
+EDUCATION
+Self-taught — no formal degree.
+INTERESTS
+Walking · hobby electronics · synthesisers · music · reading

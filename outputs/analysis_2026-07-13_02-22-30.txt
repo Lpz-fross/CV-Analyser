@@ -1,0 +1,97 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 02:22
+============================================================
+
+JOB DESCRIPTION FILE: job_description.txt
+CV FILE: my_cv.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# Candidate-Role Match Analysis
+
+---
+
+## MATCH SCORE
+
+**Match Score: 1/10**
+
+This score reflects an almost total absence of overlap between the candidate's profile and the role's requirements: Leon is a product design student with hospitality and events experience, whereas the role demands 3–5 years of software engineering, applied AI, and Python development. The single point awarded acknowledges that French/English bilingualism is a stated requirement that Leon partially meets.
+
+---
+
+## STRONG MATCHES
+
+1. **Bilingualism (French/English):** The job description explicitly requires a good level of both English and French; Leon is a native English speaker with conversational French, which partially satisfies this requirement.
+2. **Reliability and operational discipline:** Leon's experience managing bar operations, opening/closing procedures, and event logistics demonstrates the kind of process-orientation and operational rigour the role values when deploying and maintaining agents in daily use — though this is a very indirect match.
+3. **Science/analytical academic background:** Leon's A-Level subjects (Biology, Chemistry, Mathematics) suggest a quantitative, structured mindset that is a foundational — if distant — precursor to the logical thinking required in software and AI engineering.
+
+> **Note:** Three matches is the minimum required by this format. In reality, only the first point constitutes a genuine direct match to the job description. The other two are heavily inferred and would carry no meaningful weight in a real recruitment process.
+
+---
+
+## GAPS & MISSING REQUIREMENTS
+
+| Missing Requirement | Importance in JD | Dealbreaker? |
+|---|---|---|
+| **Python programming skills** | Explicitly listed as a core technical skill; appears in the stack section | ✅ Absolute dealbreaker |
+| **3–5 years of Software Engineering, Data, or Applied AI experience** | Stated minimum experience threshold | ✅ Absolute dealbreaker |
+| **LLM and agentic systems experience** (OpenAI, Anthropic, Mistral, Langchain, etc.) | Central to the entire role — it is literally what the job is about | ✅ Absolute dealbreaker |
+| **SQL and data modelling** | Listed as a "solid base" requirement | ✅ Absolute dealbreaker |
+| **API development, webhooks, and integrations** | Core technical responsibility appearing multiple times in the JD | ✅ Absolute dealbreaker |
+| **Automation tooling (n8n, Make, Zapier, Dust)** | Explicitly listed in both the skills section and the tech stack | ✅ Absolute dealbreaker |
+| **Cloud experience (AWS or GCP)** | Listed in the technical stack | ✅ Dealbreaker |
+| **Production deployment of AI solutions** | Described as a specific required experience | ✅ Absolute dealbreaker |
+| **University-level education in Computer Science, Engineering, or related field** | Implied by the role level and responsibilities | Very likely a dealbreaker |
+| **Product sense in an enterprise SaaS or tech context** | Valued throughout the JD ("curiosité produit") | Significant gap |
+
+---
+
+## CV IMPROVEMENT SUGGESTIONS
+
+**1. Academic Section**
+- **CURRENT:** The CV lists A-Levels in Biology, Chemistry, and Mathematics, and GCSEs — no higher education is mentioned despite Leon describing himself as "Étudiant en design de produit."
+- **SUGGESTED:** If Leon is currently enrolled in a product design degree, name the institution, the degree title, the start date, and expected graduation date. If the programme includes any modules touching on digital tools, UX software, or data, list them explicitly.
+- **REASON:** The JD targets candidates with substantive engineering or data credentials. Without naming the institution and degree, the CV is missing its single most important credential claim for any tech-adjacent role.
+
+**2. Skills Section — Remove Irrelevant Items**
+- **CURRENT:** Skills listed include "Gestion de bar," "Montage d'événements," "DJ et éclairage," and "Travail posté fiable."
+- **SUGGESTED:** Remove all hospitality and events skills when targeting tech roles. Replace with any actual digital or technical skills: specific CAD software (Rhino is already mentioned — expand on this), any coding exposure, any software tools used in the product design programme.
+- **REASON:** Listing bar management as a skill for an AI engineering role actively signals misalignment and undermines credibility before the recruiter reaches the experience section.
+
+**3. Rhino CAD & Prototyping — Expand This Entry**
+- **CURRENT:** "Rhino CAD & prototypage" appears as a single bullet point in the skills list with no context whatsoever.
+- **SUGGESTED:** Add a brief project description either here or under education — what was built, what tools were used alongside Rhino (e.g., Figma, Fusion 360), and what the outcome was.
+- **REASON:** This is the only technical skill on the CV. Expanding it is the only way to demonstrate any capacity for systematic, technical thinking, which is a prerequisite even for an entry-level pivot toward tech roles.
+
+**4. Professional Summary — Rewrite for Honesty and Direction**
+- **CURRENT:** "Étudiant en design de produit motivé et polyvalent, alliant créativité et sens pratique à une solide expérience de terrain en hôtellerie et en événementiel."
+- **SUGGESTED:** If targeting tech roles in the future, rewrite to signal a clear trajectory: e.g., "Étudiant en design de produit, développant des compétences en prototypage, en logique systémique et en outils numériques, avec l'objectif de contribuer à des équipes tech orientées produit."
+- **REASON:** The current summary positions Leon squarely in hospitality, which immediately disqualifies him from any tech screening filter — human or automated.
+
+**5. Add a Projects or Personal Learning Section**
+- **CURRENT:** No section exists for personal projects, side learning, or digital experimentation of any kind.
+- **SUGGESTED:** If Leon has any exposure to AI tools (even ChatGPT used systematically), any automation experiments (Zapier, Notion automations), or any coding tutorials completed (even beginner Python on Codecademy), these should be listed under a "Projets personnels" or "Formation continue" section.
+- **REASON:** For early-career candidates targeting tech, demonstrable curiosity and self-directed learning carry significant weight — but only if evidenced. An empty section here is a significant missed opportunity.
+
+---
+
+## COVER LETTER ANGLE
+
+> **The strongest angle — though it is very weak for this specific role — would be a transparent pivot narrative:**
+
+"Actuellement étudiant en design de produit avec une formation scientifique solide (Mathématiques, Biologie, Chimie) et une première exposition aux outils de prototypage numérique, je suis en train d'orienter activement mon parcours vers les environnements tech et l'automatisation, domaines qui m'ont conduit à explorer [insert any genuine AI/automation tool experience here]. Ma capacité à opérer dans des environnements exigeants, à gérer des processus complexes sous pression et à travailler en équipes transverses — démontrée dans mes expériences opérationnelles — me permettrait de contribuer concrètement à la diffusion et à l'adoption interne des agents IA auprès des équipes métiers. Je suis conscient que mon profil est atypique pour ce poste, mais ma double compétence en pensée systémique issue du design et en curiosité pour l'IA générative me donne la conviction que je peux monter rapidement en compétence dans cet environnement."
+
+> ⚠️ **Important caveat:** Even this angle is unlikely to succeed for *this specific role*, which requires production-grade technical skills that cannot be claimed here.
+
+---
+
+## HONEST VERDICT
+
+**Leon should not apply for this role.** The position requires 3–5 years of hands-on software engineering or applied AI experience, production Python development, LLM system design, and API integration — none of which appear anywhere on this CV, not even in nascent form. His realistic chance of progressing past an automated CV screen is essentially zero, and submitting this application would not be a productive use of his time or the recruiter's.
+
+**The one thing that would most change Leon's trajectory toward roles like this** is committing to a structured, 12–18 month technical upskilling path: specifically, foundational Python (via a recognised course), followed by hands-on LLM API experi
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

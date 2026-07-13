@@ -1,0 +1,95 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 22:42
+============================================================
+
+CV FILE: cv_test_2.txt
+JOB DESCRIPTION FILE: job_description.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# GitHub Traffic Team — Staff Software Engineer
+## Candidate Analysis: Duncan Fordyce
+
+---
+
+## MATCH SCORE
+
+**Match Score: 3/10**
+
+Duncan has genuine depth as a software engineer with 25 years of experience, but his background is almost entirely in product/application engineering for a single music-promotion platform, with no demonstrable experience in the infrastructure, networking, and load-balancing domain this role is built around. The critical hard requirements — Go, cloud platforms, load balancers, DDoS/abuse protection, and planetary-scale traffic engineering — are either entirely absent from the CV or cannot be evidenced from what is written.
+
+---
+
+## STRONG MATCHES
+
+1. **Long professional coding tenure:** Duncan's ~25 years of professional engineering comfortably satisfies the experience threshold (9+ years without a degree), which is a baseline requirement the role states clearly.
+
+2. **Production reliability mindset:** His explicit framing of "correctness and reliability as part of the feature rather than an afterthought" and his TDD practice align with the Traffic Team's core mandate of operating industry-leading services at global scale.
+
+3. **High-volume systems at scale:** The mail platform sending over a million emails a month to several million recipients demonstrates he has operated production systems under sustained, meaningful load — including throttling, deliverability, and per-recipient tracking — which shares conceptual territory with traffic management concerns like rate-limiting and load shedding.
+
+4. **Mentorship and technical leadership:** His Principal Engineer title and his explicit ownership of architecture, review, and quality while directing an AI coding agent demonstrates the senior technical leadership and decision-making mentorship the Staff Engineer role requires.
+
+5. **Remote/async work experience:** His 16-year tenure at a small, distributed engineering team at FATdrop indicates genuine experience working asynchronously, which GitHub specifically calls out as a requirement for this highly distributed team.
+
+---
+
+## GAPS & MISSING REQUIREMENTS
+
+| Gap | Importance | Dealbreaker? |
+|---|---|---|
+| **Go / Golang experience** | The JD lists Go as the primary coding language for this role; "Write, review, and maintain code primarily in Go and Ruby & Rails" is a direct responsibility. Duncan lists no Go experience anywhere on the CV. | **Near-certain dealbreaker.** GitHub requires 2+ years Go as a preferred qualifier, and it is the team's primary language. |
+| **Load balancer experience (HAProxy or equivalent)** | The role requires 2+ years maintaining a load balancer with proven DDoS/abuse protection, load shedding experience. This is completely absent from the CV. | **Dealbreaker.** This is listed as a hard required qualification, not a preference. |
+| **Cloud platform experience (AWS, Azure, GCP)** | 4+ years of cloud-native workloads is a required qualification. Duncan's CV shows Docker/CI-CD but no cloud platform experience at all. | **Dealbreaker.** The gap is total — not a depth issue but a complete absence. |
+| **Platform/infrastructure domain experience** | 4+ years in platform/infrastructure is a required qualification. Duncan's entire career is product/application engineering, not infrastructure engineering. | **Dealbreaker.** The role sits inside GitHub's infrastructure organisation; this isn't a gap that can be closed with a cover letter. |
+| **Networking fundamentals (routing, BGP, DNS, TCP/IP at depth)** | Traffic engineering at GitHub's scale requires deep networking knowledge — routing, protocols, edge architecture. Nothing in the CV evidences this. | **Dealbreaker.** Foundational to the role. |
+| **Ruby / Rails experience** | The role explicitly lists Ruby & Rails as a primary language alongside Go. Duncan lists no Ruby experience. | **Significant gap**, though less critical than Go and networking. |
+| **DDoS / abuse protection mechanisms** | Explicitly required (2+ years). Completely absent from the CV. | **Dealbreaker** as a hard requirement. |
+| **Planetary/internet-scale systems** | Preferred qualification. FATdrop is described at reasonable scale but not remotely comparable to GitHub's 180 million developer, global infrastructure scale. | **Not a dealbreaker alone**, but compounds the other gaps. |
+
+---
+
+## CV IMPROVEMENT SUGGESTIONS
+
+**1. Surface the rate-limiting and throttling work more explicitly**
+
+- **CURRENT:** "throttling to protect sender reputation" is buried in a single bullet about the mail platform.
+- **SUGGESTED:** Expand this into a dedicated bullet that explains the technical mechanism — e.g., whether you implemented token-bucket algorithms, sliding windows, per-recipient or per-domain limits — and quantify the scale (recipients/hour throttled, volume managed).
+- **REASON:** Rate-limiting is one of two specific technical problems named in the role's responsibilities. Making this technically precise and visible immediately signals domain relevance to a hiring manager scanning quickly.
+
+**2. Reframe the Docker/CI-CD section to emphasise platform thinking**
+
+- **CURRENT:** "Set up and run the Docker deployment infrastructure: dev-containers, single-image CI-built tooling, and an automated release pipeline" reads as a developer convenience feature.
+- **SUGGESTED:** Rewrite to emphasise the reliability and operational dimensions — e.g., how many services it supports, what failure modes it handles, how it enables other engineers to ship with less friction. Mirror GitHub's own language: "internal engineering teams have the tools to build on top of our platform with as little friction as possible."
+- **REASON:** This reframing moves the experience closer to platform engineering, which is the team's self-described domain, and demonstrates customer-obsessed thinking about internal developer experience.
+
+**3. Add any Go exposure, even if self-taught or recent**
+
+- **CURRENT:** Go is entirely absent from the CV. Python is listed as expert; Go is not mentioned.
+- **SUGGESTED:** If Duncan has any Go exposure — reading codebases, toy projects, recent upskilling — add it explicitly, with an honest proficiency qualifier (e.g., "Go — actively learning, familiar with concurrency model and stdlib"). If he has none, this needs to become the immediate priority before applying.
+- **REASON:** Go is the primary language of this role. Its complete absence from the CV is likely to trigger immediate rejection at automated screening stage before a human reads any of the compelling experience.
+
+**4. Quantify the search and recommendation system more technically**
+
+- **CURRENT:** "Hundreds of thousands of artists and labels," "cosine similarity," "nightly scoring batch" — directionally interesting but light on technical depth and system scale.
+- **SUGGESTED:** Add specifics: query latency targets and actuals, dataset size in records/GB, throughput (QPS), memory footprint, what the profiling uncovered and the magnitude of improvement. Frame this as operating a production serving system under real load constraints.
+- **REASON:** The Traffic Team cares deeply about performance at scale; demonstrating that Duncan has instrumented, profiled, and optimised production systems with real numbers makes him a more credible infrastructure candidate.
+
+**5. Address the self-taught, no-degree status proactively in the profile**
+
+- **CURRENT:** "Self-taught — no formal degree" sits alone under Education with no framing. The profile mentions it briefly but doesn't connect it to the OR equivalent experience qualification path.
+- **SUGGESTED:** In the profile, add one sentence explicitly framing 25 years of professional experience as meeting the "equivalent experience" qualification threshold. Also consider moving the education note into the profile itself so it reads as a confident statement rather than a sparse section that draws negative attention.
+- **REASON:** The JD explicitly includes an "OR equivalent experience" pathway. Duncan clearly qualifies on tenure alone, but the CV currently makes a recruiter do that calculation themselves rather than confirming it directly.
+
+---
+
+## COVER LETTER ANGLE
+
+**The strongest angle: an engineer who has built and run every layer of a production platform — from data pipelines to serving infrastructure to email delivery at scale — and who now wants to go deeper into the infrastructure layer where reliability is the whole product, not just a property of one.**
+
+> "For sixteen years I've been the engineer responsible for keeping FATdrop's platform running — not just shipping features, but owning the mail infrastructure that delivers a million emails a month, the serving layer behind our recommendation system, and the deployment pipeline that keeps everything alive, including a legacy codebase too risky to rewrite in a hurry. I've always been most interested in the layer beneath the application: the part where correctness and reliability aren't negotiable. The Traffic Team's mission — making GitHub's edge robust so that every other team can build on it with confidence — is the kind of infrastructure ownership I want to specialise in fully, and I'm investing now in Go and networking fundamentals to close the gap between where I am and where the role needs me to be. I'd welcome the chance to talk about how
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

@@ -1,0 +1,93 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 21:21
+============================================================
+
+CV FILE: my_cv.txt
+JOB DESCRIPTION FILE: job_strong_match.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# Candidate Analysis: Manager de Caveau — Domaine Achillée
+
+---
+
+## MATCH SCORE
+
+**Match Score: 2/10**
+
+The candidate has genuine transferable skills in bar management, customer service, and event logistics that are directionally relevant, but almost every core requirement of this role — wine expertise, oenotourism experience, bilingual French/German fluency, management experience at scale, and a relevant degree — is either absent or significantly underdeveloped. The gap between what the role demands and what the CV evidences is structural, not cosmetic.
+
+---
+
+## STRONG MATCHES
+
+- **Bar management experience:** The candidate managed all operations at Railway Bell in Brighton, including team supervision and opening/closing procedures — this directly mirrors the caveau's operational management expectations.
+- **Customer-facing service in a high-pressure environment:** Both the bar role and kitchen role demonstrate proven ability to deliver quality service under sustained pressure, which is central to the client experience mandate of this role.
+- **Event logistics and setup:** The 18-month role at Brighton Centre building and preparing large public events aligns with the event programming and oenotourism animation responsibilities listed in the job description.
+- **Team supervision:** The candidate explicitly mentions encadrant une équipe at Railway Bell, satisfying the minimum evidence of people management experience.
+- **Native English speaker:** The role lists English fluency as indispensable for welcoming international visitors — the candidate is a native English speaker, which is a genuine asset.
+
+---
+
+## GAPS & MISSING REQUIREMENTS
+
+| Gap | Importance in JD | Dealbreaker? |
+|---|---|---|
+| **No wine or oenology knowledge** | Critical — the role requires advising on wine, leading tastings, explaining biodynamic viticulture, and pairing food and wine | **Yes — dealbreaker.** This is the technical foundation of the entire role. |
+| **No oenotourism or wine sector experience** | Critical — minimum 5 years in Vins & Spiritueux (réceptif haut de gamme) explicitly required | **Yes — dealbreaker.** The candidate has zero documented experience in wine, spirits, or hospitality tourism. |
+| **No German language ability** | High — German is listed as a specific bonus given Alsace's tourist profile and cross-border clientele | **Partial dealbreaker.** English fluency covers the indispensable requirement, but German adds significant value here. |
+| **French is conversational/developing, not fluent** | Critical — the role requires advising and leading guided visits in French with a French-speaking domestic clientele | **Likely dealbreaker.** Conversational French is insufficient for managing a team, handling administrative tasks, and guiding French visitors at a professional level. |
+| **No degree in a relevant field** | High — Bac+3/5 in oenotourism, events, commerce, or hospitality required | **Significant gap.** The candidate holds only A-Levels (equivalent to French Baccalauréat), with no higher education completed or in progress in a relevant field. |
+| **No CRM or marketing tool experience** | Medium — CRM management, newsletter writing, and social media content creation are explicit responsibilities | **Addressable.** This could be developed, but there is no evidence of any marketing or digital communication experience on the CV. |
+| **No HACCP or food safety certification** | Medium — explicitly listed under administrative compliance responsibilities | **Addressable** in a cover letter or with a short training course, but currently undocumented. |
+| **Less than 5 years total professional experience** | High — the role specifies 5–10 years minimum, with at least 2 years in management | **Dealbreaker.** The CV shows approximately 1.5–2 years of professional experience in total, and the management role appears brief (2025, no end date or duration given). |
+| **No social media or content creation experience** | Medium — managing Instagram/social platforms and writing newsletters is an explicit responsibility | **Addressable** but currently completely absent from the CV. |
+| **Based in Ceret (Pyrénées-Orientales), not Alsace** | Logistical — the role is in Scherwiller (67), approximately 650 km away | **Must be addressed.** Relocation intention needs to be explicitly stated or this application will be filtered immediately. |
+
+---
+
+## CV IMPROVEMENT SUGGESTIONS
+
+**1.**
+**CURRENT:** The bar management role at Railway Bell is dated simply "2025" with no start date or duration, making the length of experience impossible to assess.
+**SUGGESTED:** Add a precise date range (e.g., "January 2025 – October 2025") and quantify the team size managed (e.g., "encadré une équipe de 4 personnes").
+**REASON:** The role requires minimum 2 years of management experience — a vague single-year date undermines credibility and makes it impossible for a recruiter to assess tenure.
+
+**2.**
+**CURRENT:** The CV objective describes the candidate as "Étudiant en design de produit" — a field entirely unrelated to wine, hospitality, or oenotourism.
+**SUGGESTED:** Rewrite the objective to foreground hospitality, event management, and customer experience, and explicitly mention any personal interest in wine culture, biodynamics, or the Alsace wine region. Remove the product design framing entirely for this application.
+**REASON:** Leading with an unrelated academic identity signals misalignment before a recruiter reads a single line of experience — it actively works against this application.
+
+**3.**
+**CURRENT:** The Brighton Centre event role describes only physical setup logistics ("préparation logistique," "montage").
+**SUGGESTED:** Expand to include any client-facing, programming, or coordination elements if they existed — e.g., did the candidate liaise with event organisers, manage access, or work with the public on event days? Also add any volunteer or personal experience with wine events, tastings, or domaine visits.
+**REASON:** The Achillée role requires event *conception and animation*, not just physical setup — the CV needs to evidence a higher level of involvement to bridge this gap.
+
+**4.**
+**CURRENT:** There is no mention of any wine knowledge, personal interest in oenology, or engagement with wine culture anywhere on the CV.
+**SUGGESTED:** Add a brief "Interests / Formation complémentaire" section referencing any WSET level, wine tasting experience, visits to wine regions, or self-directed learning in oenology — even informal engagement signals genuine motivation.
+**REASON:** For a role entirely built around wine expertise and biodynamic viticulture, complete silence on the subject is a critical credibility gap that no amount of hospitality experience can compensate for alone.
+
+**5.**
+**CURRENT:** The CV makes no reference to the candidate's French language level in a professional context, nor any intention to relocate to Alsace.
+**SUGGESTED:** Upgrade the language section to specify professional contexts where French was used (e.g., serving French-speaking customers), and add a line in the objective explicitly stating relocation commitment to the Bas-Rhin region.
+**REASON:** A recruiter in Scherwiller receiving a CV from Ceret written in French but listing French as "conversational" will immediately question the candidate's ability to function in the role — proactively addressing both language and geography removes two of the simplest filter points.
+
+---
+
+## COVER LETTER ANGLE
+
+The single strongest angle is **"operational instinct and cross-cultural hospitality, ready to grow into wine expertise"** — frame the narrative around the rare combination of hands-on management experience, native English fluency in a bilingual-required role, and event logistics capability, positioned as a foundation ready to be built upon through rapid immersion in the Achillée biodynamic philosophy.
+
+> *"Having managed bar operations, led teams under pressure, and supported large-scale event logistics in a professional capacity, I bring the operational reliability and customer instinct that a busy caveau demands — combined with the native English fluency your international visitors require from day one. What draws me specifically to Achillée is your commitment to biodynamics and the authenticity of your approach: I am actively developing my oenological knowledge and am prepared to invest fully in learning your wines and your story. I am relocating to Alsace and am looking for a role where genuine passion for the product and rigorous day-to-day execution are equally valued."*
+
+---
+
+## HONEST VERDICT
+
+**This candidate should not apply to this role in its current form.** The position requires a minimum of 5 years in the wine and spirits sector, fluent operational French, wine expertise, and a relevant degree — the candidate meets none of these core requirements, and these are not minor gaps that a strong cover letter can bridge. The realistic chance of
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

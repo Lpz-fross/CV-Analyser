@@ -1,0 +1,111 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 22:39
+============================================================
+
+CV FILE: my_cv.txt
+JOB DESCRIPTION FILE: job_target_role.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# MATCH SCORE
+
+**Match Score: 2/10**
+
+The candidate is a young product design student with entry-level hospitality and event logistics experience, while the role demands a seasoned Entertainment Manager capable of leading professional performance teams, booking external acts, and managing multi-venue entertainment programmes. The gap between what is on this CV and what the role requires is fundamental and wide-ranging, not a matter of presentation.
+
+---
+
+# STRONG MATCHES
+
+**Event Setup Experience (Brighton Centre):** 18 months working on large-scale public event logistics at a major venue demonstrates direct familiarity with the operational demands of live events, which maps onto the role's requirement for multi-venue event delivery.
+
+**Bar Management & Team Supervision (Railway Bell):** Managing bar operations and supervising a team in a high-footfall environment shows leadership capability and experience coordinating staff under pressure, which the role expects at a significantly higher level.
+
+**DJ and Lighting Skills:** Listed under skills, this directly touches the technical/audiovisual support element of the role, where the job description explicitly mentions AV and technical support for events.
+
+**Customer-Facing Service Experience:** Consistent customer interaction across bar management and kitchen roles evidences the guest-experience mindset Warner Hotels emphasises throughout the job description.
+
+---
+
+# GAPS & MISSING REQUIREMENTS
+
+**No Entertainment Management Experience**
+- *What's missing:* The candidate has never managed an entertainment programme, scheduled performers, or overseen daytime and evening entertainment across any venue.
+- *Importance:* This is the core function of the role — the entire job title and primary responsibility.
+- *Dealbreaker:* **Yes.** This is non-negotiable for a management-level appointment at a 311-bedroom hotel.
+
+**No Experience Booking External Acts**
+- *What's missing:* The job description explicitly lists "experience of booking external acts" as a required skill. There is zero evidence of this on the CV.
+- *Importance:* High — sourcing and contracting performers is central to the role year-round.
+- *Dealbreaker:* **Yes**, at this seniority level.
+
+**No Multi-Venue Programme Management**
+- *What's missing:* The role requires managing entertainment across two theatres and multiple spaces simultaneously. The candidate's event experience is as a setup crew member, not a programme manager.
+- *Importance:* High — explicitly called out in the job description.
+- *Dealbreaker:* **Yes**, given the scale of Heythrop Park.
+
+**No Team Leadership at Management Level**
+- *What's missing:* Bar supervision of a small team is not equivalent to leading a professional entertainment team, coaching performers, and working with HODs on engagement and retention strategies.
+- *Importance:* High — "inspirational leader" is the first descriptor in the person specification.
+- *Dealbreaker:* **Yes**, for this specific role, though experience could grow toward it.
+
+**No Sales or Commercial Awareness**
+- *What's missing:* The role requires working with the holiday sales team to support holiday sales and develop and sell excursions. There is no commercial or sales experience evident anywhere on the CV.
+- *Importance:* Medium — it is a clear secondary requirement but would differentiate strong candidates.
+- *Dealbreaker:* Unlikely alone, but compounds the overall gap.
+
+**No Conference or Corporate Event Management Experience**
+- *What's missing:* The role covers meetings, conferences, and special events with internal stakeholders and external suppliers. The CV shows crew-level event setup, not event management.
+- *Importance:* Medium-High.
+- *Dealbreaker:* Not alone, but reinforces the experience deficit.
+
+**No Formal Entertainment, Events, or Hospitality Management Qualification**
+- *What's missing:* The candidate's education is A-Levels in Biology, Chemistry, and Maths, with a current focus on product design. No events, entertainment, or hospitality qualification exists.
+- *Importance:* Low to medium — Warner Hotels does offer apprenticeship pathways, which could be relevant.
+- *Dealbreaker:* Not on its own, but it underlines career stage mismatch.
+
+---
+
+# CV IMPROVEMENT SUGGESTIONS
+
+**1. Brighton Centre Role**
+- *CURRENT:* "Participé à la préparation logistique de lieux accueillant des événements publics de grande envergure."
+- *SUGGESTED:* Rewrite in English and specify the types and scale of events: "Supported logistical preparation for large-scale public events including concerts, performances, and exhibitions at a major 4,500-capacity venue, coordinating within a large team to tight turnaround deadlines."
+- *REASON:* The AV and technical support element of the role is the strongest genuine crossover point — it needs to be visible, specific, and in English for a UK hiring manager.
+
+**2. DJ and Lighting Skills**
+- *CURRENT:* Listed as a single bullet point under skills with no context or evidence.
+- *SUGGESTED:* Add a brief line of context — either a separate CV entry or a note such as: "Practising DJ with hands-on experience operating lighting rigs and sound equipment at [specific type of events]."
+- *REASON:* This is the one technical skill that directly maps to AV/technical support in the job description, but as currently presented it carries no credibility or weight.
+
+**3. CV Language**
+- *CURRENT:* The entire CV is written in French.
+- *SUGGESTED:* Rewrite the full CV in English immediately. A French-language CV for a UK hospitality management role will likely be filtered out before it is read in detail.
+- *REASON:* Warner Hotels is a UK employer hiring for a UK-based role; submitting a French CV signals a lack of attention to the application context and creates unnecessary friction for the reader.
+
+**4. Railway Bell Bar Management Role**
+- *CURRENT:* Describes operational and service duties with no reference to team size, revenue, or business impact.
+- *SUGGESTED:* Add specifics: "Managed a team of [X] staff, overseeing shift scheduling, staff briefings, and performance during peak trading periods, contributing to consistent service standards and repeat custom."
+- *REASON:* The role requires evidence of leadership and team development — quantifying and contextualising the management experience makes it more credible and relevant.
+
+**5. Personal Statement / Profile**
+- *CURRENT:* Positions the candidate as a product design student seeking to combine design creativity with operational hospitality experience — honest but entirely misaligned with this role.
+- *SUGGESTED:* For this application, rewrite the profile to foreground the entertainment and events thread: focus on passion for live events, technical skills, team coordination experience, and ambition to grow into entertainment management within a hospitality environment.
+- *REASON:* The personal statement is the first thing read and currently signals the wrong career direction entirely; it must be tailored per application.
+
+---
+
+# COVER LETTER ANGLE
+
+The strongest angle available to this candidate is positioning themselves as an emerging talent with genuine, hands-on roots in live events and hospitality operations — someone who has worked across every layer of a live event, from technical setup to front-of-house service, and who brings both creative instinct (product design, DJ/lighting) and operational reliability. "I have spent the past two years immersed in live events from the ground up — building and striking stages at one of Brighton's biggest venues, managing a bar team through high-pressure trading, and developing hands-on AV and lighting skills as a practising DJ; I now want to bring that full-circle understanding of what makes a great guest experience into a dedicated entertainment management career with Warner Hotels. I recognise I am at the start of that management journey, and Heythrop Park represents exactly the environment — structured, multi-venue, year-round programming — where I can develop fastest under experienced leadership. I would welcome the chance to discuss how my energy, technical grounding, and genuine passion for live entertainment could contribute to your team, even if my CV does not yet reflect the full seniority of the role."
+
+---
+
+# HONEST VERDICT
+
+This candidate should not apply for this specific role in its current form — the position is a mid-to-senior management appointment requiring proven entertainment management, act-booking experience, and multi-venue programme leadership that this candidate simply does not yet have, and no amount of CV rewriting will bridge that fundamental gap. Their realistic chance of progressing to interview is very low, likely under 5%, and a rejection would be based on experience level rather than presentation. The single thing that would most improve their prospects in this industry is to target entry-level entertainment host or entertainment coordinator roles within hotel groups — including potentially Warner Hotels at a junior level — to build the management track record that this role genuinely demands.
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

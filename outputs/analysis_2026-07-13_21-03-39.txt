@@ -1,0 +1,93 @@
+CV ANALYSIS RESULTS
+Generated: 13 July 2026 at 21:03
+============================================================
+
+CV FILE: my_cv.txt
+JOB DESCRIPTION FILE: job_strong_match.txt
+
+============================================================
+ANALYSIS
+============================================================
+
+# MATCH SCORE
+
+**Match Score: 2/10**
+
+The candidate has surface-level transferable skills in bar management and customer service, but is fundamentally missing nearly every core requirement of this role — namely the wine/oenology expertise, management experience at scale, multilingual communication, and the minimum 5 years of sector-specific experience. The profile is that of a junior hospitality generalist, not a seasoned caveau manager ready to lead a commercial operation from day one.
+
+---
+
+# STRONG MATCHES
+
+1. **Bar management experience:** The Railway Bell role demonstrates direct operational management of a bar environment, including opening/closing procedures and team supervision — directly mirroring the caveau's requirement for smooth operational oversight.
+
+2. **Customer service in a fast-paced environment:** Multiple roles evidence strong client-facing skills under pressure, aligning with the job's requirement for "véritable sens de l'accueil" and handling French and international clientele.
+
+3. **Event logistics experience:** The Brighton Centre role (18 months of event setup) maps onto the job's requirement for event programming and logistical coordination of themed evenings and group visits.
+
+4. **English as a native language:** The role explicitly requires fluent English as indispensable for welcoming international visitors; this is one of the few requirements the candidate fully satisfies without qualification.
+
+5. **Team supervision:** The Railway Bell role references managing a team to maintain service quality, partially addressing the minimum 2-year management requirement listed in the job description.
+
+---
+
+# GAPS & MISSING REQUIREMENTS
+
+| Gap | Importance in JD | Dealbreaker? |
+|---|---|---|
+| **Wine & oenology knowledge** | Critical — the entire role is built around advising on biodynamic wines, leading cave tours, and wine-food pairings | **Yes — dealbreaker** |
+| **5+ years in Vins & Spiritueux sector** | Explicitly stated as minimum requirement; candidate has no wine industry experience at all | **Yes — dealbreaker** |
+| **German language** | Listed as indispensable alongside English for cave tours; the JD requires tours in French, English AND German | **Yes — dealbreaker** |
+| **French language at professional level** | Cave tours and client advisory are conducted in French; candidate lists French as "conversational/in progress" | **Yes — dealbreaker** |
+| **Bac+3/5 qualification in oenology, hospitality, events or commerce** | Required educational baseline; candidate holds only A-Levels (equivalent to pre-university) | **Very important — dealbreaker** |
+| **CRM management and digital marketing** | Role requires newsletter writing, social media content creation, and CRM client file management | **Significant gap — not evidenced at all** |
+| **HACCP and food safety compliance** | Administrative requirement for the role; no evidence of any certification | **Moderate — could be addressed in cover letter** |
+| **Tour-operator and B2B partnership development** | Requires building relationships with agencies, hotels, and corporate clients | **Significant — no evidence** |
+| **Budget management and financial reporting** | Role requires daily cash management, financial reporting, and budget oversight | **Important — only very basic cash handling implied** |
+| **Social media and content creation** | Explicit responsibility in the role; absent from CV entirely | **Significant gap** |
+
+---
+
+# CV IMPROVEMENT SUGGESTIONS
+
+**1. Bar Manager role is underdeveloped**
+- **CURRENT:** "Piloté l'ensemble des opérations d'un bar et encadré une équipe" — one line with no metrics, no duration, no team size
+- **SUGGESTED:** Add the duration (e.g., "2024–2025"), state how many people were managed (e.g., "équipe de 4 personnes"), and add a quantified result (e.g., revenue achieved, events hosted, customer satisfaction)
+- **REASON:** Without dates and numbers, this is the candidate's strongest experience and it reads as too thin to compete against candidates with 5-10 years of wine sector management
+
+**2. The profile/objective statement targets the wrong audience**
+- **CURRENT:** "Étudiant en design de produit motivé et polyvalent" — immediately signals this is not a career wine professional
+- **SUGGESTED:** Rewrite entirely to lead with hospitality and customer experience: "Professionnel de l'accueil avec expérience en gestion de bar, événementiel et service client international, passionné par le monde du vin et en reconversion ciblée vers l'œnotourisme"
+- **REASON:** Identifying as a product design student is the first thing recruiters see and immediately disqualifies this application for a senior wine role
+
+**3. French language level is vague and undersells or oversells**
+- **CURRENT:** "Français - Conversationnel / en progression"
+- **SUGGESTED:** Specify a CEFR level if known (e.g., B1/B2), add context ("utilisé quotidiennement depuis installation en France"), and note any formal training undertaken
+- **REASON:** The role requires conducting cave tours and advising clients entirely in French; vague language levels give recruiters no confidence this is viable
+
+**4. Wine knowledge and interest is completely absent**
+- **CURRENT:** No mention of wine, oenology, tastings, certifications, or personal interest in viticulture anywhere in the CV
+- **SUGGESTED:** Add any relevant training (WSET Level 1 or 2, even if self-study), personal interest in wine, visits to wine regions, or any professional exposure to wine sales — even informal
+- **REASON:** Without any evidence of engagement with the wine world, the candidate has no plausible hook for a role whose entire commercial basis is biodynamic wine expertise
+
+**5. The Skills section mixes irrelevant and relevant items without prioritisation**
+- **CURRENT:** "DJ et éclairage" and "Rhino CAD & prototypage" are listed alongside customer service skills
+- **SUGGESTED:** Remove all product design and DJ-related skills entirely for this application; replace with wine-adjacent skills if any exist (e.g., "sensibilisation à l'agriculture biologique," "intérêt pour l'œnotourisme") and bring language skills and customer-facing competencies to the top
+- **REASON:** Rhino CAD signals to this recruiter that the candidate is in the wrong field; every line on the CV should reinforce hospitality and commercial credibility
+
+---
+
+# COVER LETTER ANGLE
+
+**The angle: "A natural host with operational instincts, now fully committed to wine and ready to grow into the role"**
+
+> Ayant géré les opérations quotidiennes d'un bar à Brighton tout en développant mon sens de l'accueil auprès d'une clientèle internationale, je me suis installé en France avec la conviction que l'œnotourisme représente le secteur où je veux construire ma carrière à long terme. Ce qui me différencie, c'est cette combinaison rare d'un Anglais natif — atout direct pour accueillir vos visiteurs internationaux — doublée d'une expérience opérationnelle concrète en gestion d'équipe et en événementiel, et d'une passion croissante pour la viticulture biologique qui m'a conduit à cibler Achillée spécifiquement. Je suis conscient que mon parcours dans le monde du vin est à ses débuts, mais je m'engage à progresser rapidement : je suis prêt à investir dans une formation WSET et à apporter dès le premier jour un énergie commerciale et relationnelle que cinq ans dans le même secteur n'apportent pas toujours.
+
+---
+
+# HONEST VERDICT
+
+**This candidate should not apply to this role in its current form** — the gap between their profile and the job requirements is too wide on the non-negotiable criteria: no wine knowledge, no sector experience, no German, and no relevant degree. Their realistic chance of progressing past CV screening is very low, likely under 5%, because the job description explicitly requires minimum 5 years in Vins & Spiritueux and fluency in at least two of the three required languages for cave tours. The single thing that would most improve their chances — not just for this role but for the sector — is completing a WSET Level 2 or equivalent oenology certification, even over the next 3–6 months, which would give them a credible foundation and a reason for any wine domain to take their application seriously.
+
+============================================================
+Generated by CV Analyser — built with Anthropic Claude API

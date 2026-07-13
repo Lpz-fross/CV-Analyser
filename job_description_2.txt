@@ -1,0 +1,75 @@
+Description du poste
+A propos de l'offre ::
+V.I.E Ingénieur(e) en intelligence artificielle (F/H) - Espagne
+
+Date : Juillet 2026
+
+Pays : Madrid, Espagne
+
+️Durée : 12 mois renouvelables (24 mois au total)
+
+Participer à l’aventure d’un groupe en pleine transformation, ça te tente ?
+
+Créateur de l’hypermarché, deuxième distributeur mondial et premier en Europe, Carrefour reste fidèle à ses racines mais se réinvente pour permettre à chacun, chaque jour, de manger mieux : plus sain, plus local, plus responsable.
+
+Nos atouts pour y parvenir ? Un réseau multiformat de magasins, la création de services et d'une offre digitale de référence, une coopération renforcée avec les acteurs du monde agricole, de la chaîne alimentaire, de la Tech… et des collaborateurs passionnés, qui s’engagent, challengent leur métier et grandissent ensemble pour réussir la transition alimentaire pour tous !
+
+Le groupe Carrefour est également engagé dans une ambitieuse transformation pour devenir une Digital Retail Company, qui place le digital et la data au cœur de toutes ses opérations et de son modèle de création de valeur.
+
+Conçu pour développer nos futurs leaders à l’international, le V.I.E Program Talent Carrefour permet d’accéder à des missions à forte valeur ajoutée pour accompagner ton développement et accélérer la transformation de Carrefour. Nous recherchons des talents à haut potentiel, motivés par les missions stratégiques à forte valeur ajoutée.
+
+TA FILIALE :
+
+En Espagne, nous avons plus de 1 000 magasins (203 hypermarchés, 797 supermarchés), 147 stations-service, 724 agences de voyage et notre portail de e-commerce. Avec un effectif de plus de 40 000 personnes.
+Carrefour ¡ Todos merecemos lo mejor !
+
+TON ENVIRONNEMENT DE TRAVAIL :
+Carrefour Espagne déploie le plan stratégique "CarrevolucIA 2026", passant d'une IA passive et réactive à une IA agente et autonome.
+
+Notre ambition est de devenir une entreprise à la pointe de l'innovation en bâtissant "FactorIA", une plateforme de gestion centralisée conçue pour déployer des agents IA à l'échelle nationale.
+
+Tu travailleras en partenariat avec l'équipe d'ingénierie FactorIA et les instances de gouvernance data, sécurité et juridique pour garantir une approche de conformité dès la conception.
+
+Tu devras aussi collaborer avec les Business Owners et les “AI Champions” pour aligner le comportement des agents IA sur les besoins réels du Retail. Tu travailleras également aux côtés des consultants Google Cloud et des partenaires stratégiques en IA.
+
+
+TES MISSIONS :
+Tu auras pour mission de piloter le développement des 5 agents stratégiques : ClubIA (partenaire shopping), SearchIA (SEO génératif), SintIA (voix du client), MerchIA (gestion catégorielle) et SherpIA (copilote en magasin).
+
+Tu devras implémenter les agents en garantissant la création de valeur pour Carrefour en collaborant avec les consultants et l'Agent Factory.
+
+Industrialiser les projets pilotes isolés au sein d'un écosystème agentique unifié, afin de passer d'un mode « artisanal » à une production à grande échelle.
+
+Mettre en place des systèmes « Human-on-the-loop », où les agents IA gèrent l'exécution tandis que les humains supervisent les exceptions stratégiques.
+
+Tes objectifs sont les suivants :
+
+Accélérer l'activité : accélérer les cycles business de 30 % à 50 % grâce à l'exécution autonome.
+Efficacité opérationnelle : réduire d'au moins 15 % la charge de travail administrative à faible valeur ajoutée au siège.
+KPI spécifiques aux agents : viser un taux de résolution autonome supérieur à 80% pour ClubIA et multiplier par 4 le chiffre d'affaires grâce à l'hyper-personnalisation.
+Industrialisation : assurer la transition des "sprints" modulaires de FactorIA vers une mise en production intégrale à l’échelle nationale.
+
+TON PROFIL :
+
+De formation supérieure bac+5 (M2), tu es diplômé(e) d’une école de commerce, d’ingénieur ou d’une université.
+
+Compétences techniques :
+
+Expertise approfondie de Google Cloud Platform, spécifiquement pour les infrastructures pilotées par l'IA.
+Expérience confirmée dans la création, l'optimisation et le déploiement d'agents génératifs via Vertex AI et l'ADK Google Cloud.
+Solides compétences en ingénierie pour implémenter et intégrer des agents via le Model Context Protocol ou des standards d'interconnexion similaires, afin de connecter les LLM à des sources de données et outils externes.
+Capacité experte dans la création d'environnements Docker pour agents IA et à gérer leur cycle de vie, leur déploiement et leur mise à l'échelle via Google Kubernetes Engine.
+Qualités recherchées :
+
+Méthodologie agile : vision stratégique et capacité à comprendre et traduire les besoins métier.
+Langues :
+
+Espagnol et Anglais : niveau courant requis (C1)
+
+AVANTAGES DU VIE TALENT PROGRAM CARREFOUR :
+
+Nous rejoindre, c’est bénéficier d’un accompagnement signature :
+Prise en charge du voyage A/R et aide au logement.
+Cours de langue en espagnol (40h) pour t’accompagner lors de tes premiers pas.
+Programme de formation sur mesure pour développer tes soft et hard skills.
+Un suivi individuel, par le Groupe et l’Espagne, avec un accompagnement carrière en fin de mission.
